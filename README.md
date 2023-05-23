@@ -1,5 +1,5 @@
 # Harish_Barathi_22BLC1003
-Cat vs Dog Image Classifier
+Harmful vs Harmless Image Classifier
 
 I have used a deep learning technique called transfer learning to build the neural network and have used my own CNN model to compare the accuracy between both
 
@@ -7,4 +7,4 @@ Transfer learning is a technique used in deep learning where a pre-trained model
 
 Pretrained model used -> Mobile Net V2
 
-Link to the dataset -> https://www.kaggle.com/c/dogs-vs-cats
+Link to the dataset -> https://drive.google.com/drive/mobile/folders/1DEq5GOJJFAF1xlLFPtjZJelzvBhGpya-?usp=sharing&fbclid=PAAaaB4fEXQjHE6u6q6cp5aadRVTtX2Y9dge6Zu37Q1K1z0c5rPMuTuL0OQ2k
